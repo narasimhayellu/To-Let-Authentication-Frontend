@@ -1,0 +1,87 @@
+.top {
+  position: sticky;
+  height: 80px;
+  width: 100vw;
+  background-color: rgb(11, 11, 11);
+  display: flex;
+  overflow: hidden;
+}
+
+.home {
+  padding: 25px;
+  font-size: 15px;
+  color: white;
+  position: absolute;
+  left: 52%;
+  text-decoration: none;
+}
+
+.logo {
+  height: 65px;
+  border-radius: 50px;
+}
+
+.about {
+  padding: 25px;
+  font-size: 15px;
+  color: white;
+  position: absolute;
+  left: 58%;
+  text-decoration: none;
+}
+
+.blog {
+  padding: 25px;
+  font-size: 15px;
+  color: white;
+  position: absolute;
+  left: 65%;
+  text-decoration: none;
+}
+
+.contact{
+  padding: 25px;
+  font-size: 15px;
+  color: white;
+  position: absolute;
+  left: 71%;
+  text-decoration: none;
+}
+
+.prop {
+  color: white;
+  padding: 25px;
+  font-size: 15px;
+  position: absolute;
+  left: 78%;
+  text-decoration: none;
+}
+
+.log{
+  color: white;
+  padding: 25px;
+  font-size: 15px;
+  position: absolute;
+  left: 89%;
+  text-decoration: none;
+}
+
+.logout{
+  color: white;
+  padding: 25px;
+  font-size: 15px;
+  position: absolute;
+  left: 90%;
+  text-decoration: none;
+  margin-top: 25px;
+}
+
+.button{
+  background-color: transparent;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.button:hover {
+  background-color: rgb(30, 190, 190);   
+}
